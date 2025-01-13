@@ -6,3 +6,7 @@ webdriver-manager
 requests
 pypdf
 pillow
+mkdocs
+mkdocs-glightbox
+mkdocs-rss-plugin
+urllib3<2
